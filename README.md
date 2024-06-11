@@ -1,0 +1,4 @@
+- @lrdvile on X/twitter
+- Security researcher
+- Pentester
+- Programming :D
